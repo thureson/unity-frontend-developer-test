@@ -1,0 +1,15 @@
+.App {
+  background-color: rgba(238, 238, 238);
+  min-width: 100vw;
+  min-height: 100vh;
+  color: rgb(70, 70, 70);
+  font-size: 0.8em;
+  font-family: 'Helvetica', 'sans-serif';
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.table-title {
+  text-align: center;
+  font-size: 1.2em;
+}
